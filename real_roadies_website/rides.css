@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+   }
+   body{
+    background-color: #121212;
+   }
+   .nav-link{
+    font-family: Poppins;
+    font-size: 20px;
+    color: #121212;
+    text-decoration: none solid rgb(18, 18, 18);
+    }
+    /* .navbar-brand{
+    color:#121212;
+    } */
+    .text-create{
+    font-family: Poppins;
+    font-size: 15px;
+    color:#121212
+    }
+    .Ride-week{
+    border-radius: 10px;
+    background-color:#ffdd00;
+    }
+    .Ride-text{
+      font-size: 30px;
+      font-family: Black Ops One;
+      color: #121212;
+      text-decoration: none solid rgb(18, 18, 18);
+    }
+    .bg-image{
+      height:400px;
+      background-image: url("assets/ride.svg");
+      font-family: Poppins;
+      color: #f2f2f2;
+      text-decoration: none solid rgb(242, 242, 242);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      border-radius:10px;
+     }
+     .Ride-planed-text{
+      color:#f2f2f2;
+      font-family: Poppins;
+      text-decoration: none solid rgb(242, 242, 242);
+      text-transform: capitalize;
+      font-size: 30px;
+     }
+     .Ride-week-plan{
+      background-color:#262626;
+      border-radius: 10px;
+     }
+     .co-riders{
+     font-family: Poppins;
+     font-size: 30px;
+     color: #f2f2f2;
+     text-decoration: none solid rgb(242, 242, 242);
+     text-transform: capitalize;
+    }
