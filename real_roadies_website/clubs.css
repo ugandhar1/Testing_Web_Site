@@ -121,4 +121,9 @@
       margin-top: 0;
     }
   }
-    
+  .club-information{
+    font-size: 20px;
+    font-family: Black Ops One;
+    color: #121212;
+    text-decoration: none solid rgb(18, 18, 18);
+  }
