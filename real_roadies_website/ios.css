@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+   }
+   body{
+       background-color: #121212;
+   }
+   .Ride-text{
+    font-size: 30px;
+    font-family: Black Ops One;
+    color: #121212;
+    text-decoration: none solid rgb(18, 18, 18);
+  }
