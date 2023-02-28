@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+   }
+   body{
+       background-color: #121212;
+   }
+   .c-item{
+    height: 450px;
+    background-color: #121212;
+   }
+   .c-img{
+      height: 100vh;
+      width:auto;
+      object-fit:fill;
+      background-size:contain;
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-position: center center;
+   }
+   .p-ride{
+    font-size:25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#FFDD00 ;
+    text-align: center;
+   }
